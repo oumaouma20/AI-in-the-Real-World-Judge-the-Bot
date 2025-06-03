@@ -1,0 +1,16 @@
+# 🕵️‍♂️ Case 1: The Hiring Bot That Ghosted Women
+
+## 🧠 What’s Happening:
+A tech company uses an AI-powered Hiring Bot to scan thousands of job applications. 
+It filters out candidates before any human ever reads their CVs. But here’s the catch:
+ women who took career breaks (often to care for family) are rejected at a much higher rate.
+
+## 🚨 What’s Problematic:
+This AI system likely learned bias from historical hiring data that already discriminates against career gaps.
+ Without understanding the context, the bot is unfairly filtering out qualified female candidates. 
+Even worse — there's no explanation or transparency behind these decisions.
+
+## 🛠️ One Responsible Fix:
+- Retrain the model using **fairness-aware data** that values diverse career paths.
+- Add context-aware logic to avoid penalizing career breaks unfairly.
+- Introduce **transparent rejection feedback** so applicants understand the decision and can improve.

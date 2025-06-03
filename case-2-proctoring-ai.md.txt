@@ -1,0 +1,12 @@
+# 🕵️‍♂️ Case 2: The Proctoring AI That Cried "Cheater!"
+
+## 🧠 What’s Happening:
+A school uses online proctoring AI during exams to monitor students’ webcams. The AI flags students who look around, move a lot, or appear “distracted” — and automatically marks them as potential cheaters.
+
+## 🚨 What’s Problematic:
+This AI doesn't account for **neurodiversity** or physical differences. Students with ADHD, autism, anxiety, or motor tics are more likely to behave in ways that the system deems "suspicious." The result? False accusations and unfair penalties.
+
+## 🛠️ One Responsible Fix:
+- Add **multi-modal behavior analysis** (e.g., keyboard/mouse activity, sound, time-based context) instead of relying on webcam input alone.
+- Require **human review** before making disciplinary decisions.
+- Provide a way for flagged students to contest decisions, promoting accountability and fairness.
